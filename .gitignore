@@ -1,0 +1,8 @@
+backend/node_modules/
+backend/.env
+.env
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.claude/
